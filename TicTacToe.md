@@ -20,12 +20,13 @@ Clone the repository.
 Open the project in your Java IDE.
 Run PlayerSetup.java.
 Enter player names and start playing.
-Project Preview
+<h2>Project Preview</h2>
 
-<img width="657" height="476" alt="image" src="https://github.com/user-attachments/assets/37a71f96-5fe5-4312-ab6d-b6c3c7ffa8c1" />
-<img width="728" height="892" alt="image" src="https://github.com/user-attachments/assets/61dee23f-d8d4-46f9-a685-07ad31ce4173" />
-<img width="724" height="845" alt="image" src="https://github.com/user-attachments/assets/d64ab712-0464-4aef-848b-a125c21b4fbd" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37a71f96-5fe5-4312-ab6d-b6c3c7ffa8c1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/61dee23f-d8d4-46f9-a685-07ad31ce4173" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d64ab712-0464-4aef-848b-a125c21b4fbd" width="250"/>
+</p>
 
 Author
 
